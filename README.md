@@ -48,7 +48,7 @@
 ### 1. Клонирование репозитория
 ```bash
 git clone <repository-url>
-cd task-manager
+cd TaskManager
 ```
 
 ### 2. Запуск PostgreSQL через Docker
